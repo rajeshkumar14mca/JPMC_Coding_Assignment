@@ -17,7 +17,8 @@ Collateral value for ‘ineligible’ position = Zero
 Market value for both ‘eligible’ & ‘ineligible’ positions = quantity x price
 
 Having some doubt in Market value, I assumed market value also Sum of all positions in a given account.
-Having doubt in calculation for Collateral value and Market value. Did all the calulation using USD and finaly convert into given currency
+Having doubt in calculation for Collateral value and Market value. Did all the calulation using USD and finaly convert into given currency.
+Based on the sample data, task developed. 
 
 Path
 ===========
